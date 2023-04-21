@@ -1,0 +1,1 @@
+console.log("%s para sacar tuno, %d llamar.", "al 471015");
